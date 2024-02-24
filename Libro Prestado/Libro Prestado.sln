@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libro Prestado", "Libro Prestado\Libro Prestado.csproj", "{A7EB91F4-C78D-4A02-92A2-460378684D89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EB91F4-C78D-4A02-92A2-460378684D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EB91F4-C78D-4A02-92A2-460378684D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EB91F4-C78D-4A02-92A2-460378684D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EB91F4-C78D-4A02-92A2-460378684D89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C36BC1AB-D54D-438F-AD4A-9B59FB0B9C96}
+	EndGlobalSection
+EndGlobal

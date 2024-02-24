@@ -1,0 +1,14 @@
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\bin\Debug\net8.0\PROGRAMA PARA GRADUARSE.exe
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\bin\Debug\net8.0\PROGRAMA PARA GRADUARSE.deps.json
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\bin\Debug\net8.0\PROGRAMA PARA GRADUARSE.runtimeconfig.json
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\bin\Debug\net8.0\PROGRAMA PARA GRADUARSE.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\bin\Debug\net8.0\PROGRAMA PARA GRADUARSE.pdb
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\obj\Debug\net8.0\PROGRAMA PARA GRADUARSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\obj\Debug\net8.0\PROGRAMA PARA GRADUARSE.AssemblyInfoInputs.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\obj\Debug\net8.0\PROGRAMA PARA GRADUARSE.AssemblyInfo.cs
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\obj\Debug\net8.0\PROGRAMA PARA GRADUARSE.csproj.CoreCompileInputs.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\obj\Debug\net8.0\PROGRAMA PARA GRADUARSE.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\obj\Debug\net8.0\refint\PROGRAMA PARA GRADUARSE.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\obj\Debug\net8.0\PROGRAMA PARA GRADUARSE.pdb
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\obj\Debug\net8.0\PROGRAMA PARA GRADUARSE.genruntimeconfig.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE\obj\Debug\net8.0\ref\PROGRAMA PARA GRADUARSE.dll

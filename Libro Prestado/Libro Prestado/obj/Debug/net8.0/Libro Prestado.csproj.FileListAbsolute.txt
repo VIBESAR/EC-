@@ -1,0 +1,14 @@
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\bin\Debug\net8.0\Libro Prestado.exe
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\bin\Debug\net8.0\Libro Prestado.deps.json
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\bin\Debug\net8.0\Libro Prestado.runtimeconfig.json
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\bin\Debug\net8.0\Libro Prestado.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\bin\Debug\net8.0\Libro Prestado.pdb
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\obj\Debug\net8.0\Libro Prestado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\obj\Debug\net8.0\Libro Prestado.AssemblyInfoInputs.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\obj\Debug\net8.0\Libro Prestado.AssemblyInfo.cs
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\obj\Debug\net8.0\Libro Prestado.csproj.CoreCompileInputs.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\obj\Debug\net8.0\Libro Prestado.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\obj\Debug\net8.0\refint\Libro Prestado.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\obj\Debug\net8.0\Libro Prestado.pdb
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\obj\Debug\net8.0\Libro Prestado.genruntimeconfig.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Libro Prestado\Libro Prestado\obj\Debug\net8.0\ref\Libro Prestado.dll

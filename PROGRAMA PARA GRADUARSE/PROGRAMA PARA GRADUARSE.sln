@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PROGRAMA PARA GRADUARSE", "PROGRAMA PARA GRADUARSE\PROGRAMA PARA GRADUARSE.csproj", "{06A6BF77-421F-4994-A560-6881F6511F62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06A6BF77-421F-4994-A560-6881F6511F62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06A6BF77-421F-4994-A560-6881F6511F62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06A6BF77-421F-4994-A560-6881F6511F62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06A6BF77-421F-4994-A560-6881F6511F62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B3A73D85-E0DE-4969-B423-4B7E0C6CD88F}
+	EndGlobalSection
+EndGlobal

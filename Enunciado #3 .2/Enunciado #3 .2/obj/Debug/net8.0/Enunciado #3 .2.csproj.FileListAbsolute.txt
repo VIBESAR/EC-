@@ -1,0 +1,14 @@
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\obj\Debug\net8.0\Enunciado #3 .2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\obj\Debug\net8.0\Enunciado #3 .2.AssemblyInfoInputs.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\obj\Debug\net8.0\Enunciado #3 .2.AssemblyInfo.cs
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\obj\Debug\net8.0\Enunciado #3 .2.csproj.CoreCompileInputs.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\bin\Debug\net8.0\Enunciado #3 .2.exe
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\bin\Debug\net8.0\Enunciado #3 .2.deps.json
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\bin\Debug\net8.0\Enunciado #3 .2.runtimeconfig.json
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\bin\Debug\net8.0\Enunciado #3 .2.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\bin\Debug\net8.0\Enunciado #3 .2.pdb
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\obj\Debug\net8.0\Enunciado #3 .2.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\obj\Debug\net8.0\refint\Enunciado #3 .2.dll
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\obj\Debug\net8.0\Enunciado #3 .2.pdb
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\obj\Debug\net8.0\Enunciado #3 .2.genruntimeconfig.cache
+C:\Users\canch\OneDrive\Escritorio\Ejercicio En Clase\Enunciado #3 .2\Enunciado #3 .2\obj\Debug\net8.0\ref\Enunciado #3 .2.dll
